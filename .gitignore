@@ -1,0 +1,28 @@
+# Datasets and generated training outputs
+/datasets/
+/checkpoints/
+/results/
+/train_log/
+
+
+# Python cache and compiled files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
