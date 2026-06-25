@@ -258,8 +258,6 @@ Before running an experiment, verify the dataset name, selected modalities, spli
 
 This repository builds on the TransResU-Net architecture introduced by Tomar et al. [1] and the authors’ [official PyTorch implementation](https://github.com/nikhilroxtomar/TransResUNet). The original work addresses real-time colonoscopy polyp segmentation; this project adapts the architecture to multimodal brain MRI and introduces early- and intermediate-fusion strategies for binary brain tumor segmentation.
 
-The [upstream repository](https://github.com/nikhilroxtomar/TransResUNet) states that its source code is available for research and educational use, while commercial use requires prior permission. Any reuse or redistribution of adapted code must respect the upstream terms.
-
 ---
 
 ## References
@@ -279,3 +277,9 @@ The [upstream repository](https://github.com/nikhilroxtomar/TransResUNet) states
 [7] Adam Paszke, Sam Gross, Francisco Massa, Adam Lerer, James Bradbury, Gregory Chanan, Trevor Killeen, Zeming Lin, Natalia Gimelshein, Luca Antiga, Alban Desmaison, Andreas Köpf, Edward Yang, Zachary DeVito, Martin Raison, Alykhan Tejani, Sasank Chilamkurthy, Benoit Steiner, Lu Fang, Junjie Bai, and Soumith Chintala, “PyTorch: An Imperative Style, High-Performance Deep Learning Library,” in *Advances in Neural Information Processing Systems 32 (NeurIPS 2019)*, Curran Associates, Inc., 2019, pp. 8024–8035, doi: 10.48550/arXiv.1912.01703, arXiv: 1912.01703 [cs.LG], url: https://arxiv.org/abs/1912.01703.
 
 [8] Diederik P. Kingma and Jimmy Ba, “Adam: A Method for Stochastic Optimization,” in *International Conference on Learning Representations (ICLR 2015)*, 2015, doi: 10.48550/arXiv.1412.6980, arXiv: 1412.6980 [cs.LG], url: https://arxiv.org/abs/1412.6980.
+
+---
+
+## Licence
+
+This repository follows the terms specified by the [upstream TransResU-Net repository](https://github.com/nikhilroxtomar/TransResUNet). The source code is available for research and educational use. Commercial use requires prior permission from the original authors. Any reuse, modification, or redistribution of adapted TransResU-Net code must comply with these terms.
