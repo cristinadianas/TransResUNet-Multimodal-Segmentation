@@ -280,6 +280,6 @@ This repository builds on the TransResU-Net architecture introduced by Tomar et 
 
 ---
 
-## Licence
+## License
 
 This repository follows the terms specified by the [upstream TransResU-Net repository](https://github.com/nikhilroxtomar/TransResUNet). The source code is available for research and educational use. Commercial use requires prior permission from the original authors. Any reuse, modification, or redistribution of adapted TransResU-Net code must comply with these terms.
